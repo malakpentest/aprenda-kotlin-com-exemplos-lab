@@ -44,7 +44,6 @@ Contribuições são sempre bem-vindas! Se você tem uma sugestão para melhorar
 
 Meu nome é Fernando - [Fernando-novaes@outlook.com](mailto:Fernando-novaes@outlook.com)
 
-Link do Projeto: [https://github.com/malakpentest/aprenda-kotlin-com-exemplos-lab].(https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab)
----
+Link do Projeto: [https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab)
 
 Este README foi construído como parte da conclusão do Desafio de Projeto da DIO, refletindo sobre o aprendizado e as técnicas aplicadas no código desenvolvido.
